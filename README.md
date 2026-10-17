@@ -4,7 +4,7 @@ As I aspire for cloud security engineering, I will initiate a process of keeping
 
 ## Table of Contents
 
-[GitHub Basics](#github-basics)
+- [GitHub Basics](#github-basics)
 
 ## GitHub Basics
 
